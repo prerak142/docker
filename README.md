@@ -72,3 +72,76 @@ https://docs.docker.com/desktop/install/linux-install/
 
 
 
+good part 
+
+
+
+start the docker desktop 
+
+
+video tutorial(upto 5:48) for follow up code (cuation download humble desktop full )
+
+https://youtu.be/dihfA7Ol6Mw?feature=shared
+
+
+open vs code in a folder 
+
+
+![image](https://github.com/user-attachments/assets/bf316684-5100-473a-977a-738bc4bcdefe)
+ 
+
+
+go to the extension and search dev container and install the remote development 
+
+![image](https://github.com/user-attachments/assets/10f3373f-d1b5-4a2c-acb5-f7787fb88638)
+
+follow the step 
+
+
+click on the bottomm left sign (left to the launch pad)
+
+
+![Screenshot 2024-07-27 115457](https://github.com/user-attachments/assets/cea1a97a-283c-4ebb-b4d3-0a3125f53d81)
+
+
+Reopen in container 
+
+
+![image](https://github.com/user-attachments/assets/fb3738a0-58e2-4508-b993-9e381e463337)
+
+
+add configuration to data folder 
+
+
+search ros 
+
+![image](https://github.com/user-attachments/assets/1544ffef-33b6-413f-b795-07291b427317)
+
+
+select the humble 
+
+
+select desktop full 
+
+![image](https://github.com/user-attachments/assets/9ce6985e-72fb-4ff9-9d0c-d115795d2728)
+
+
+now you are done 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
