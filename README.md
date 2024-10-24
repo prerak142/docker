@@ -1,5 +1,5 @@
-# Docker and VS Code Setup Guide
-
+# Docker and ROS Setup Guide
+This repository contains the files required to install Docker and Ros. Go through the readme file, please.
 ## Visual Studio Code
 
 ### Installation
