@@ -82,5 +82,5 @@ This repository contains the files required to install Docker and Ros. Go throug
 
 Now you are done!
 
-
+Time for the Activity 
 
